@@ -1,0 +1,15 @@
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\bin\Debug\net6.0\StringWildcardMatchTest.exe
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\bin\Debug\net6.0\StringWildcardMatchTest.deps.json
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\bin\Debug\net6.0\StringWildcardMatchTest.runtimeconfig.json
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\bin\Debug\net6.0\StringWildcardMatchTest.dll
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\bin\Debug\net6.0\ref\StringWildcardMatchTest.dll
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\bin\Debug\net6.0\StringWildcardMatchTest.pdb
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\StringWildcardMatchTest.csproj.AssemblyReference.cache
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\StringWildcardMatchTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\StringWildcardMatchTest.AssemblyInfoInputs.cache
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\StringWildcardMatchTest.AssemblyInfo.cs
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\StringWildcardMatchTest.csproj.CoreCompileInputs.cache
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\StringWildcardMatchTest.dll
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\ref\StringWildcardMatchTest.dll
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\StringWildcardMatchTest.pdb
+C:\Users\inox\RiderProjects\StringWildcardMatchTest\StringWildcardMatchTest\obj\Debug\net6.0\StringWildcardMatchTest.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StringWildcardMatchTest/1.0.0": {
+        "runtime": {
+          "StringWildcardMatchTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringWildcardMatchTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
